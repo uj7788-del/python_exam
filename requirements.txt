@@ -1,1 +1,1 @@
-koreanize-matplotlib
+streamlit
